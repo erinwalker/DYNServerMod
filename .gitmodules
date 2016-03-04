@@ -21,3 +21,7 @@
 	path = src/main/java/com/rabbit
 	url = git://github.com/Digital-Youth-Network/rabbit-gui.git
 	branch = submodule
+[submodule "src/main/java/com/dyn/item"]
+	path = src/main/java/com/dyn/item
+	url = git://github.com/Digital-Youth-Network/Items.git
+	branch = submodule
