@@ -25,3 +25,7 @@
 	path = src/main/java/com/dyn/item
 	url = git://github.com/Digital-Youth-Network/Items.git
 	branch = submodule
+[submodule "src/main/java/com/dyn/betterachievements"]
+	path = src/main/java/com/dyn/betterachievements
+	url = git://github.com/Digital-Youth-Network/BetterAchievements.git
+	branch = submodule
