@@ -61,5 +61,14 @@ git submodule update
 # Stage the changes
 git add src/main/java/com/rabbit
 
+# Add the BetterAchievements submodule
+git submodule add -b submodule git://github.com/Digital-Youth-Network/BetterAchievements.git src/main/java/com/dyn/betterachievements
+# Initialize the submodule
+git submodule init
+# Clone the submodule
+git submodule update
+# Stage the changes
+git add src/main/java/com/dyn/betterachievements
+
 # Commit the changes
 git commit -m "Installing Submodules"

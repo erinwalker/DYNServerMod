@@ -21,5 +21,8 @@ git add src/main/java/assets
 # Stage the changes
 git add src/main/java/com/rabbit
 
+# Stage the changes
+git add src/main/java/com/dyn/betterachievements
+
 # Commit the changes
 git commit -m "Updating Submodules"
