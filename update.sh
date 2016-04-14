@@ -16,6 +16,9 @@ git add src/main/java/com/dyn/instructor
 git add src/main/java/com/dyn/item
 
 # Stage the changes
+git add src/main/java/com/dyn/names
+
+# Stage the changes
 git add src/main/java/assets
 
 # Stage the changes

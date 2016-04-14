@@ -43,6 +43,15 @@ git submodule update
 # Stage the changes
 git add src/main/java/com/dyn/item
 
+# Add the Names submodule
+git submodule add -b submodule git://github.com/Digital-Youth-Network/Names.git src/main/java/com/dyn/names
+# Initialize the submodule
+git submodule init
+# Clone the submodule
+git submodule update
+# Stage the changes
+git add src/main/java/com/dyn/names
+
 # Add the Assets submodule
 git submodule add git://github.com/Digital-Youth-Network/Assets.git src/main/java/assets
 # Initialize the submodule
