@@ -79,6 +79,6 @@ processResources
     }
 }
 
-reobfJar.doLast { task ->
-    ant.checksum file: task.jar.archivePath
+reobfJar.doLast {
+    ant.checksum file: tasks.jar.archivePath
 }
