@@ -96,3 +96,9 @@ processResources
         exclude 'mcmod.info'
     }
 }
+
+tasks.withType(Zip) { task ->
+    task.doLast {
+        ant.checksum file: it.archivePath
+    }
+}
