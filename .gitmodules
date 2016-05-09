@@ -25,15 +25,11 @@
 [submodule "src/main/resources/assets"]
 	path = src/main/resources/assets
 	url = git://github.com/Digital-Youth-Network/Assets.git
-[submodule "src/main/java/com/rabbit"]
+[submodule "1.8.9"]
 	path = src/main/java/com/rabbit
 	url = git://github.com/Digital-Youth-Network/rabbit-gui.git
 	branch = submodule1.8.9
 [submodule "src/main/java/com/dyn/betterachievements"]
 	path = src/main/java/com/dyn/betterachievements
 	url = git://github.com/Digital-Youth-Network/BetterAchievements.git
-	branch = submodule1.8.9
-[submodule "1.8.9"]
-	path = src/main/java/com/rabbit
-	url = git://github.com/Digital-Youth-Network/rabbit-gui.git
 	branch = submodule1.8.9
