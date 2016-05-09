@@ -1,0 +1,35 @@
+[submodule "src/main/java/com/dyn/achievements"]
+	path = src/main/java/com/dyn/achievements
+	url = git://github.com/Digital-Youth-Network/MinecraftAchievements.git
+	branch = submodule1.8.9
+[submodule "src/main/java/com/dyn/login"]
+	path = src/main/java/com/dyn/login
+	url = git://github.com/Digital-Youth-Network/LoginUI.git
+	branch = submodule1.8.9
+[submodule "src/main/java/com/dyn/server"]
+	path = src/main/java/com/dyn/server
+	url = git://github.com/Digital-Youth-Network/ServerCommunication.git
+	branch = submodule1.8.9
+[submodule "src/main/java/com/dyn/instructor"]
+	path = src/main/java/com/dyn/instructor
+	url = git://github.com/Digital-Youth-Network/TeacherUI.git
+	branch = submodule1.8.9
+[submodule "src/main/java/com/dyn/item"]
+	path = src/main/java/com/dyn/item
+	url = git://github.com/Digital-Youth-Network/Items.git
+	branch = submodule1.8.9
+[submodule "src/main/java/com/dyn/names"]
+	path = src/main/java/com/dyn/names
+	url = git://github.com/Digital-Youth-Network/Names.git
+	branch = submodule1.8.9
+[submodule "src/main/resources/assets"]
+	path = src/main/resources/assets
+	url = git://github.com/Digital-Youth-Network/Assets.git
+[submodule "src/main/java/com/rabbit"]
+	path = src/main/java/com/rabbit
+	url = git://github.com/Digital-Youth-Network/rabbit-gui.git
+	branch = submodule1.8.9
+[submodule "src/main/java/com/dyn/betterachievements"]
+	path = src/main/java/com/dyn/betterachievements
+	url = git://github.com/Digital-Youth-Network/BetterAchievements.git
+	branch = submodule1.8.9
