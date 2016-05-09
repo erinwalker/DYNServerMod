@@ -19,7 +19,7 @@ git add src/main/java/com/dyn/item
 git add src/main/java/com/dyn/names
 
 # Stage the changes
-git add src/main/java/assets
+git add src/main/resources/assets
 
 # Stage the changes
 git add src/main/java/com/rabbit

@@ -1,0 +1,16 @@
+[
+{
+  "modid": "dynmod",
+  "name": "DYN Server Mod",
+  "description": "This is the main mod for DYN's server ",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Dom Amato"],
+  "credits": "RedEnergy for the GUI, way2muchnoise for the Achievement page rework, and CoolAlias for the Messaging abstract class",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

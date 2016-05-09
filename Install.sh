@@ -53,13 +53,13 @@ git submodule update
 git add src/main/java/com/dyn/names
 
 # Add the Assets submodule
-git submodule add git://github.com/Digital-Youth-Network/Assets.git src/main/java/assets
+git submodule add git://github.com/Digital-Youth-Network/Assets.git src/main/resources/assets
 # Initialize the submodule
 git submodule init
 # Clone the submodule
 git submodule update
 # Stage the changes
-git add src/main/java/assets
+git add src/main/resources/assets
 
 # Add the Rabbit Gui submodule
 git submodule add -b submodule git://github.com/Digital-Youth-Network/rabbit-gui.git src/main/java/com/rabbit
