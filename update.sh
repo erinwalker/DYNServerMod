@@ -1,4 +1,4 @@
-git submodule foreach git pull origin submodule
+git submodule foreach git pull origin submodule1.8.9
 
 # Stage the changes
 git add src/main/java/com/dyn/achievements
