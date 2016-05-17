@@ -1,4 +1,4 @@
-git submodule foreach git pull origin submodule
+git submodule foreach git pull origin submodule1.8.9
 
 # Stage the changes
 git add src/main/java/com/dyn/achievements
@@ -19,7 +19,7 @@ git add src/main/java/com/dyn/item
 git add src/main/java/com/dyn/names
 
 # Stage the changes
-git add src/main/java/assets
+git add src/main/resources/assets
 
 # Stage the changes
 git add src/main/java/com/rabbit
